@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "node_modules",
+			"path": "..\\complete-react\\basic-app\\node_modules"
+		},
+		{
+			"name": "public",
+			"path": "..\\complete-react\\basic-app\\public"
+		},
+		{
+			"name": "Basic-React-JS",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "..\\complete-react\\basic-app\\src"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,24 @@
+.inputs{
+    margin: 5rem auto;
+    padding: 1rem;
+    width: 60%;
+    max-width: 40rem;
+}
+.inputs label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: .5rem
+}
+.inputs input{
+    font-size: 1rem;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: .2rem;
+    margin-bottom: .5rem;
+    height: 2rem;
+}
+.inputs input:focus{
+    outline: none;
+    background-color: rgba(8, 8, 87, 0.233);
+}
